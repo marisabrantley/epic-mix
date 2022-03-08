@@ -1,4 +1,4 @@
-# epic-mix
+# Epic Mix Exercise
 This exercise involved creating a list of songs of our choosing and theme to display when the user clicks the "Show Me" button.
 
 ## Objective
